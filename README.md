@@ -21,7 +21,7 @@ slice = compute_abroca(df_test, pred_col = 'pred_proba' , label_col = 'returned'
                        protected_attr_col = 'Gender', majority_protected_attr_val = 1,   
                        n_grid = 10000, plot_slices = True, file_name = 'slice_plot.png')
 ```
-<img src="abroca/example/slice_plot.png" width="100%"/>
+<img src="example/slice_plot.png" width="100%"/>
 
 The plot is automatically saved to a file and is displayed on-screen. The link to download the data is given in the comments in the example file. Parameters are self explainatory through the example file. Parameter details below. 
 

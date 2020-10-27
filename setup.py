@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="abroca", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Disha, Vaibhav Kaushik",
     author_email="disha.7003@gmail.com",
     description="package for computing and visualizing the Absolute Between-ROC Area (ABROCA)",

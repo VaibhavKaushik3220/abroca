@@ -3,16 +3,6 @@ output: github_document
 title: "README"
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/",
-  out.width = "100%"
-)
-```
 ## What is it?
 
 "abroca" is a python package to provide basic functionality for computing and visualizing the Absolute Between-ROC Area (ABROCA).
@@ -21,7 +11,6 @@ knitr::opts_chunk$set(
 
 The source code is currently hosted on GitHub at:
 https://github.com/VaibhavKaushik3220/abroca
-You can install the released version of abroca from [CRAN](https://CRAN.R-project.org) with:
 
 ```sh
 # PyPI

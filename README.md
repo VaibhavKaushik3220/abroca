@@ -1,8 +1,3 @@
----
-output: github_document
-title: "README"
----
-
 ## What is it?
 
 "abroca" is a python package to provide basic functionality for computing and visualizing the Absolute Between-ROC Area (ABROCA).
